@@ -1,6 +1,6 @@
 # Status Terms of Use
 
-Last updated: 19 September 2024
+Last updated: 10 December 2024
 
 ### 1. Introduction
 
@@ -55,6 +55,13 @@ Status Software is open source client software that is designed to be user-frien
 
 Status develops Status Software and makes it available for you to run in a web browser or for your local use on your desktop or mobile device. This means that you are solely responsible for your activity and any potential risk or loss you may incur through using the Status Software as further detailed below in these terms. 
 
+As a result of the privacy-first design of Status Software:
+
+1. Status does not store nor have access to user data, messages, or content;
+2. Status cannot associate content or actions with individual users. However, users may choose to disclose certain limited information to Status voluntarily, such as when opting in to share usage analytics. This data, shared only through explicit consent of the user, is processed in accordance with our Privacy Policy;
+3. Status cannot block or ban users from using Status Software features;
+4. Status has no means of monitoring, moderating, removing, modifying or regulating users’ content or activity, except in Community Spaces created and directly managed by Status.
+
 #### 2.1.1 Wallet
 
 Status Software includes a crypto wallet. We will refer to such wallet functionality in these terms as “Wallet”.
@@ -71,11 +78,11 @@ In order to further enhance the security of storing your private keys, you may a
 
 #### 2.1.2 Messaging
 
-Status Software includes messaging functionality that enables secure communication between users. We will refer to the messaging functionality of Status Software and the Status Community Spaces collectively in these terms, as “Messaging”. 
+Status Software includes messaging functionality that enables secure communication between users. We will refer to the messaging functionality of Status Software and the Community Spaces collectively in these terms, as “Messaging”.
 
 Messaging uses an open source, peer-to-peer protocol with end-to-end encryption and metadata suppression to protect your messages from third parties (including Status). End-to-end encryption means that only the sender and recipient of a message can read its contents, and no one else. Peer-to-peer communication is accomplished using the Waku peer-to-peer messaging protocol, which relies on a distributed network of nodes instead of a centralised server. This means that there is no central party or server from which messages can be intercepted, modified or blocked. Learn more about Waku and how it works on Waku’s relevant website. 
 
-Within Messaging, you will also be able to participate in Status Community Spaces. This feature allows users to create their own token-gated communities where you can create group chats and engage with your communities, while leveraging the possibilities, functionality and benefits of blockchain technology. You will also be able to create (and join) open and public communities on Status Software that are accessible to other users. We note that content in these open and public communities will be accessible to all other users of Status Software. Nonetheless, all content will still be protected by the same end-to-end encryption utilised in Status Software. 
+Within Messaging, you will also be able to participate in Community Spaces. This feature allows users to create and join communities with varying access and discoverability options, which may include token-gated communities, private communities and open and public communities,  where you can create group chats and engage with your communities. We note that content in all Community Spaces will be accessible to the members of those spaces. For open and public communities, content will be accessible to all other users of Status Software. Nonetheless, all content, regardless of the type of community, will still be protected by the same end-to-end encryption utilised in Status Software. 
 
 
 
@@ -87,12 +94,11 @@ If you use third party services offered through Status Software, your privacy ma
 
 
 
-
 ### 4. Using third party services and interacting with Web 3 
 
 When using Status Software, you may access or use third party products, services or tools (“Third Party Services”) and interact with Web 3. Status Software is only one means of interacting with these Third Party Services and Web 3 and you can independently utilise other means and tools to do so as well. 
 
-Your interactions with Web 3 could include many aspects, such as interacting with smart contracts that reside on blockchain networks, for example to swap Digital Assets or use (crypto) bridges, or deploying your own smart contracts through Status Community Spaces. You may also interact with and participate in peer-to-peer networks which could vary in their level of decentralisation, ranging from more centralised networks controlled by a single party to networks governed by decentralised communities. 
+Your interactions with Web 3 could include many aspects, such as interacting with smart contracts that reside on blockchain networks, for example to swap Digital Assets or use (crypto) bridges, or deploying your own smart contracts through Community Spaces. You may also interact with and participate in peer-to-peer networks which could vary in their level of decentralisation, ranging from more centralised networks controlled by a single party to networks governed by decentralised communities. 
 
 When you use Third Party Services or interact with Web 3, you acknowledge that Status does not control or operate any Third Party Service or Web 3. These products, services, or tools are either controlled, operated, owned, or licensed by the third party providing them, or they may operate autonomously, independently of Status or any other party.
 
@@ -121,7 +127,7 @@ Although security is a top priority for us and many functions of Status Software
 
 ### 7. Content
 
-At Status, we believe in the sovereignty of individuals and we stand for the cause of personal liberty. We aim to promote social, political, and economic freedoms through Status Software, which is built on the principles of the free flow of information and censorship resistance. Through Status Software, particularly when using Messenger and Status Community Spaces, you will be able to create and interact with various content. We consider content to include anything you (or any other user) create, post, distribute or exchange through Status Software (as well as any future functions that may be added to Status Software), whether its text, links, GIFs, emoji, photos or any other media formats.
+At Status, we believe in the sovereignty of individuals and we stand for the cause of personal liberty. We aim to promote social, political, and economic freedoms through Status Software, which is built on the principles of the free flow of information and censorship resistance. Through Status Software, particularly when using Messenger and Community Spaces, you will be able to create and interact with various content. We consider content to include anything you (or any other user) create, post, distribute or exchange through Status Software (as well as any future functions that may be added to Status Software), whether its text, links, GIFs, emoji, photos or any other media formats.
 
 You are solely responsible for any content that you create, post, distribute or submit, messages you exchange or any other activity you may engage in related to your content on or through Status Software and any harm or liability that may result from such content.
 
@@ -139,25 +145,35 @@ You acknowledge that Status has no means of monitoring, moderating, removing, mo
 
 #### 8.1 Adherence to Status Principles 
 
-One of Status’ goals is the widespread adoption of the decentralised web while also staying true to our Principles. These terms are designed to reflect our Principles, while providing important legal protections for Status and setting out guidelines and terms for the Status Software community of users. We ask that you use Status Software in a way that promotes and aligns with the Status Principles.
+One of Status’ goals is the widespread adoption of the decentralised web while also staying true to our Principles. These terms are designed to reflect our Principles, while providing important legal protections for Status and setting out guidelines and terms for the Status Software community of users. We ask that you use Status Software in a way that promotes and aligns with the Status Principles, and avoid actions that may harm or disrupt the community of users. 
 
-#### 8.2 Limitation on certain uses of and acts in Status Software
+We strongly encourage users to act responsibly and ethically in their interactions and refrain from (i) inciting harm, violence or illegal activity, (ii) engaging in harassment, abuse or discrimination, and (iii) spreading false or misleading information.
 
-You shall not, nor try to, encourage or assist others using Status Software to: 
-1. gain or try to gain unauthorised access to Status Software; 
-2. interfere with or disrupt the integrity, safety, security, availability or performance of Status Software; 
-3. generate accounts on Status Software through unauthorised means; 
-4. install or transmit on or through Status Software, any viruses, worms, malware, Trojan horses, or other harmful or destructive code or content; 
-5. use spam, data mining, or other unsolicited promotional methods, machine generated content, or unethical or unwanted commercial content; 
-6. engage in phishing, spoofing, or similar fraudulent acts; 
-7. knowingly spread misinformation or impersonate another person or legal entity; 
-8. incite, commit or threaten, harm or engage in illegal or inappropriate conduct including stalking, bullying, harassment, intimidation or abuse another individual or group; 
-9. engage in or organise child sexual exploitation of any kind; 
-10. use Status Software, if you are subject to sanctions, or otherwise designated on a list of prohibited or restricted parties as maintained by, the United Nations, the European Union or any of its member states or the Singaporean, Swiss or US government, or intend to interact or transact with such parties;
-11. violate, misappropriate or infringe the rights of Status, other users of Status Software, or any other third parties in any way, including but not limited to privacy, publicity, intellectual property, confidentiality, property or other rights; 
-12. engage in any activity through Status Software that may be in violation of applicable law, rules or regulations in your jurisdiction; 
-13. interfere, disrupt, negatively affect, or inhibit other users from their use of Status Software; or 
-14. engage in any attack, hack, denial-of-service attack, interference, or exploit of any smart contract in connection with use of Status Software.
+If you are a Community Space creator or admin, we encourage you to establish your own guidelines to foster healthy and respectful community environments for your members.
+
+#### 8.2 Community Governance
+
+Community Spaces are self-sovereign environments managed independently by their creators and appointed admins. These users are solely responsible for:
+
+1. establishing and enforcing their own community guidelines;
+2. configuring access controls and permissions;
+3. managing community membership, including accepting or rejecting requests;
+4. moderating content and interactions within their community; and
+5. taking actions against community members who violate their community guidelines or behave disruptively, including the ability to exclude or ban members.
+
+By participating in Community Spaces, you acknowledge that community governance lies solely with community creators and their appointed admins. Status cannot monitor, moderate or intervene in community interactions or governance decisions within any Community Space, except in cases where a Community Space is created and directly managed by Status.
+
+#### 8.3 Limitation on certain uses of and acts in Status Software
+
+You agree not to use Status Software, or attempt or assist others to use it, in a manner that:
+1. uses unauthorised methods to create or gain access to an account on Status Software;
+2. interferes with or disrupts the integrity, safety, security, availability or performance of Status Software;
+3. installs or transmits on or through Status Software, any viruses, worms, malware, Trojan horses, or other harmful or destructive code or content;
+4. use Status Software, if you are subject to sanctions, or otherwise designated on a list of prohibited or restricted parties as maintained by, the United Nations, the European Union or any of its member states or the Singaporean, Swiss or US government, or intend to interact or transact with such parties;
+5. violate, misappropriate or infringe the rights of Status, other users of Status Software, or any other third parties in any way, including but not limited to privacy, publicity, intellectual property, confidentiality, property or other rights;
+6. engage in any activity through Status Software that may be in violation of applicable law, rules or regulations in your jurisdiction;
+7. interfere, disrupt, negatively affect, or inhibit other users from their use of Status Software; or
+8. engage in any attack, hack, denial-of-service attack, interference, or exploit of any smart contract in connection with use of Status Software.
 
 
 ### 9. Fees
@@ -246,6 +262,7 @@ You release Status from all liability related to any claim, cause of action, con
 ### 14. Limitation of liability
 
 Status will not be held liable to you under any contract, negligence, strict liability, or other legal or equitable theory for any lost profits, cost of procurement for substitute services, or any special, incidental, or consequential damages related to, arising from, or in any way connected with these terms, Status, your use of Status Software, particularly where Status has indicated that it is not responsible. This includes without limitation, your use of SNT or other Digital Assets (creating, distributing, transacting in or otherwise) even if Status has been advised of the possibility of such damages. 
+
 In any event, Status’ aggregate liability for any claims is limited to EUR 100 (one hundred Euros). This limitation of liability will apply to the extent permitted by applicable law.
 
 
