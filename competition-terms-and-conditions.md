@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The promoter of this competition is Status Research & Development GmbH, a company duly organised and registered under the laws of Switzerland, having its registered office at Baarerstrasse 10, 6302 Zug, Switzerland ("we", "us", or "our" and variations thereof).
+The promoter of this competition is Status Research & Development GmbH, a company duly organised and registered under the laws of Switzerland, having its registered office at Baarerstrasse 10, 6302 Zug, Switzerland (**"we"**, **"us"**, or **"our"** and variations thereof).
 
-Your participation in this competition ("Competition") is governed by these Competition terms & conditions ("Competition Terms"), which supplement the Megaphone Terms of Service and Megaphone Privacy Policy (together, the "Megaphone Terms"). By participating, you confirm that you have read and agree with both these Competition Terms and the Megaphone Terms. If there is any conflict between these Competition Terms and the Megaphone Terms and as otherwise stated explicitly, these Competition Terms will take precedence.
+Your participation in this competition (**"Competition"**) is governed by these Competition terms & conditions (**"Competition Terms"**), which supplement the Megaphone Terms of Service and Megaphone Privacy Policy (together, the **"Megaphone Terms"**). By participating, you confirm that you have read and agree with both these Competition Terms and the Megaphone Terms. If there is any conflict between these Competition Terms and the Megaphone Terms and as otherwise stated explicitly, these Competition Terms will take precedence.
 
 ## Eligibility and Entry
 
@@ -15,7 +15,7 @@ Your participation in this competition ("Competition") is governed by these Comp
 
 ## Nature of the Prizes
 
-The prizes available in this Competition ("Prizes") may include but are not limited to:
+The prizes available in this Competition (**"Prizes"**) may include but are not limited to:
 
 - **Prize Pool**: Eligible participants may also receive a share of the prize pool if deemed a winner. The prize pool may consist of digital assets or other rewards as specified by us. The final amount, allocation and distribution method of the prize pool will be determined at our sole discretion and may depend on factors such as participant XP, leaderboard position, and other criteria.
 - Any other prizes which we might make available at our sole discretion.
