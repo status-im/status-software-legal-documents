@@ -1,6 +1,6 @@
 **Status Browser Portfolio Wallet - Privacy Policy**
 
-Last update: 11 July 2025
+Last update: 17 July 2025
 
 This Status Browser Portfolio Wallet - Privacy Policy (“**Privacy Policy**”) is intended to inform users of Status’ approach to privacy in respect of Status Browser Wallet. In this regard, if you are using Status Browser Wallet, this Privacy Policy applies to you. 
 
@@ -29,8 +29,6 @@ The term “Status Browser Wallet” means this software developed by Status, be
 Status processes personal data on a limited basis from users of Status Browser Wallet and the specific types of personal data we process will depend on how you use Status Browser Wallet. As such, we only collect and process personal data in the following instances:
 
 1. **API Proxy Server**: When you use certain features of Status Browser Wallet, Status Browser Wallet will automatically interact with a server (“**API** **Proxy Server**”) that we control and has been implemented to improve the performance and security of Status Browser Wallet and acts as a critical intermediary between a user’s instance of Status Browser Wallet and a select number of third party service providers. 
-
-The API Proxy Server is hosted on a number of reputable third party cloud providers (see section 4 of this Privacy Policy). 
 
 As part of the implementation of the API Proxy Server, certain information, including personal data, from the user’s instance of Status Browser Wallet, will be processed by Status through the API Proxy Server, which include the following: 
 
