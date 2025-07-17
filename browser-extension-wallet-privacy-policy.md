@@ -56,10 +56,6 @@ We share personal data with third party service providers in the context of fulf
 
 Third party service providers we engage and services we utilise from them include:
 
-- _DigitalOcean_: Providing hosting services in relation to the API Proxy Server;
-
-- _Alibaba Cloud_: Providing hosting services in relation to the API Proxy Server;
-
 - _Google Cloud_: Providing hosting services in relation to the API Proxy Server;and
 
 - _Cryptocompare_: Providing data and information services around cryptocurrency prices; 
