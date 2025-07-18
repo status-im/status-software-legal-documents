@@ -1,6 +1,6 @@
 **Status Browser Portfolio Wallet - Privacy Policy**
 
-Last update: 11 July 2025
+Last update: 17 July 2025
 
 This Status Browser Portfolio Wallet - Privacy Policy (“**Privacy Policy**”) is intended to inform users of Status’ approach to privacy in respect of Status Browser Wallet. In this regard, if you are using Status Browser Wallet, this Privacy Policy applies to you. 
 
@@ -30,8 +30,6 @@ Status processes personal data on a limited basis from users of Status Browser W
 
 1. **API Proxy Server**: When you use certain features of Status Browser Wallet, Status Browser Wallet will automatically interact with a server (“**API** **Proxy Server**”) that we control and has been implemented to improve the performance and security of Status Browser Wallet and acts as a critical intermediary between a user’s instance of Status Browser Wallet and a select number of third party service providers. 
 
-The API Proxy Server is hosted on a number of reputable third party cloud providers (see section 4 of this Privacy Policy). 
-
 As part of the implementation of the API Proxy Server, certain information, including personal data, from the user’s instance of Status Browser Wallet, will be processed by Status through the API Proxy Server, which include the following: 
 
 - _the user’s IP address_: your IP address will be processed by Status when third party requests are run through the API Proxy Server. This however removes your individual device details and IP address when the API Proxy Server makes the external requests to the third party service provider. As a result, these third-party service providers will only see the IP address of the API proxy server, not your IP address. The API Proxy Server receives your IP address whenever your instance of Status Browser Wallet makes a https API call in the context of interacting with the following third party service providers: 
@@ -55,10 +53,6 @@ We process the above personal data for the purposes of facilitating the technica
 We share personal data with third party service providers in the context of fulfilling the above purposes in which we collect and process personal data. We have contracted such third party service providers to provide their services and act as data processors on our behalf and they are only permitted to process personal data in accordance with our instructions.
 
 Third party service providers we engage and services we utilise from them include:
-
-- _DigitalOcean_: Providing hosting services in relation to the API Proxy Server;
-
-- _Alibaba Cloud_: Providing hosting services in relation to the API Proxy Server;
 
 - _Google Cloud_: Providing hosting services in relation to the API Proxy Server;and
 
