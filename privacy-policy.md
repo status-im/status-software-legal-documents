@@ -1,6 +1,6 @@
 **Status Software \- Privacy Policy**
 
-Last update: 30 September 2024
+Last update: 21 November 2025
 
 This Status Software \- Privacy Policy (“**Privacy Policy**”) is intended to inform users of Status’ approach to privacy in respect of Status Software. In this regard, if you are using Status Software, this Privacy Policy applies to you.
 
