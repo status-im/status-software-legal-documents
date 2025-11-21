@@ -1,6 +1,6 @@
 **Status Browser Portfolio Wallet - Privacy Policy**
 
-Last update: 17 July 2025
+Last update: 21 November 2025
 
 This Status Browser Portfolio Wallet - Privacy Policy (“**Privacy Policy**”) is intended to inform users of Status’ approach to privacy in respect of Status Browser Wallet. In this regard, if you are using Status Browser Wallet, this Privacy Policy applies to you.
 
