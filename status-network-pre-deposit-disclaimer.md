@@ -1,27 +1,45 @@
-Status Network - Pre-Deposit disclaimer
+# Status Network Pre-Deposit Disclaimer
 
-About this Disclaimer
+## 1. About This Disclaimer
 
-In this Disclaimer, whenever we are referring to “we”, to “we”, “our”, “us” (or variations thereof) or Status, we are referring to Status Research & Development GmbH, a Swiss Company, with its registered office at Baarerstrasse 10, Zug, Switzerland. 
+In this Disclaimer, references to “we”, “our”, “us” or “Status” refer to Status Research & Development GmbH, a Swiss company with its registered office at Baarerstrasse 10, Zug, Switzerland.
 
-Pre-Deposit Phase
+## 2. Pre-Deposit Phase
 
-Status Network is a zkEVM Layer 2 solution built by Status on the Linea stack. The long-term vision is for it to become a sustainable, permissionless, and decentralised rollup. 
+Status Network is a zkEVM Layer 2 solution built by Status on the Linea stack. Its long-term vision is to become a sustainable, permissionless, and decentralised rollup.
 
-As part of the anticipated mainnet launch of Status Network (targeted for Q1 2026, though not guaranteed), users can voluntarily deposit assets, including SNT (Ethereum L1), Linea (Linea L2), ETH and certain US stablecoins (Ethereum L1) into non-custodial smart contract vaults (“Vaults”) as part of the pre-deposit phase (“Pre-Deposit Phase”). Users depositing assets during the Pre-Deposit Phase lock their assets in the Vaults pending bridging to Status Network upon mainnet activation. 
+As part of the anticipated mainnet launch of Status Network, currently targeted for Q1 2026 but not guaranteed, users may voluntarily deposit assets into non-custodial smart contract vaults, referred to as the Vaults, during the pre-deposit phase, referred to as the Pre-Deposit Phase.
 
-Additional details of the Pre-Deposit Phase, potential rewards and Vault operations are set out here: https://status-im.notion.site/status-network-pre-deposit. Any potential rewards are not guaranteed and may change without notice. 
+Assets that may be deposited during the Pre-Deposit Phase include:
+- SNT on Ethereum L1
+- LINEA on Linea L2
+- ETH
+- Certain US stablecoins on Ethereum L1
 
-Non-custodial nature of the Vaults
+Users depositing assets during the Pre-Deposit Phase lock their assets in the Vaults pending bridging to Status Network upon mainnet activation.
 
-The Vaults are immutable smart contracts created via Aragon. Status, its affiliates, employees, contractors and service providers ("Status Parties") do not own, operate or control the Vaults and further do not have custody of, possession, control or access to the deposited assets at any time. Status Parties are not agents or intermediaries of the user and do not store nor have access to or control over any user private keys or passwords. Users interact directly with smart contracts via non-custodial wallets. Once the assets are deposited by users, those are then governed exclusively by smart contract code. 
+Additional details regarding the Pre-Deposit Phase, potential rewards, and Vault operations are available at:  
+https://status.app/blog/status-network-pre-deposit-vaults-be-early-to-the-gasless-l2
 
-Risks
+Any potential rewards are not guaranteed and may be modified or discontinued at any time without notice.
 
-When you participate in the Pre-Deposit Phase, please be aware that there are risks involved because smart contracts are still experimental and novel technology. It could be that you might lose some or all of your assets, for example, because of technical problems, security issues or third party failures. You are responsible for understanding these risks and any other risks, including technical, legal and regulatory, before you participate. 
+## 3. Non-Custodial Nature of the Vaults
 
-Miscellaneous
+The Vaults are immutable smart contracts created via Aragon.
 
-Status reserves the right to amend this disclaimer at any time by posting the updated version on our website, upon which it takes effect. 
+Neither Status nor any of its affiliates, employees, contractors, or service providers, collectively referred to as the Status Parties, own, operate, or control the Vaults. The Status Parties do not have custody of, possession of, control over, or access to any assets deposited into the Vaults at any time.
 
-If you have any questions about this disclaimer, please contact us at: legal@status.im
+Status Parties are not agents or intermediaries of users and do not store, access, or control user private keys, passwords, or wallets. Users interact directly with the Vaults through non-custodial wallets. Once assets are deposited, they are governed exclusively by the underlying smart contract code.
+
+## 4. Risks
+
+Participation in the Pre-Deposit Phase involves inherent risks. Smart contracts and blockchain technologies are experimental and may be subject to vulnerabilities, technical failures, security incidents, or third-party failures.
+
+You acknowledge and agree that you may lose some or all of your deposited assets. You are solely responsible for understanding and assessing all risks prior to participation, including technical, operational, legal, and regulatory risks.
+
+## 5. Miscellaneous
+
+Status reserves the right to amend or update this Disclaimer at any time by publishing a revised version on its website. Any such updates become effective upon publication.
+
+If you have questions regarding this Disclaimer, please contact:  
+legal@status.im
