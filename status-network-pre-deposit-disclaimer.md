@@ -29,7 +29,7 @@ The Vaults are immutable smart contracts created via Aragon.
 
 Neither Status nor any of its affiliates, employees, contractors, or service providers, collectively referred to as the Status Parties, have custody of, possession of, control over, or access to any assets deposited by participants into the Vaults at any time.
 
-Status Parties are not agents or intermediaries of users and do not store, access, or control user private keys, passwords, or wallets. Participants interact directly with the Vaults through non-custodial wallets. Once assets are deposited, they are governed exclusively by the underlying smart contract code.
+Status Parties are not agents or intermediaries of participants and do not store, access, or control participants' private keys, passwords, or wallets. Participants interact directly with the Vaults through non-custodial wallets. Once assets are deposited, they are governed exclusively by the underlying smart contract code.
 
 ## 4. Risks
 
