@@ -14,7 +14,7 @@ Additional details of the Pre-Deposit Phase, potential rewards and Vault operati
 
 ## 3. Non-custodial nature of the Vaults
 
-The Vaults are immutable smart contracts created by Aragon. Status, its affiliates, employees, contractors and service providers ("Status Parties") do not have custody of, possession, control or access to the deposited assets at any time. Status Parties are not agents or intermediaries of the user and do not store nor have access to or control over any user private keys or passwords. Users interact directly with smart contracts via non-custodial wallets. Once the assets are deposited by users, those are then governed exclusively by smart contract code. 
+The Vaults are immutable smart contracts created by Aragon. One of the Vaults supports GUSD, a yield-generating meta-stablecoin fully backed by USDT, USDC, and USDS, developed by Generic Protocol. Status, its affiliates, employees, contractors and service providers ("Status Parties") do not have custody of, possession, control or access to the deposited assets at any time. Status Parties are not agents or intermediaries of the user and do not store nor have access to or control over any user private keys or passwords. Users interact directly with smart contracts via non-custodial wallets. Once the assets are deposited by users, those are then governed exclusively by smart contract code. 
 
 ## 4. Risks
 
