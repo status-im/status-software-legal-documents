@@ -28,14 +28,7 @@ Status Software is composed of a secure messaging tool and a crypto wallet that 
 
 Status processes personal data on a limited basis from users of Status Software and the specific types of personal data we process will depend on how you use Status Software. As such, we only collect and process personal data in the following instances:
 
-1. **Usage Data:** Where you opt-in to share usage data, we collect and/or briefly process certain personal data about your interactions with Status Software. Adhering to the principle of privacy by design, this option is off by default. The situations where we collect usage data and the type of personal data we process are as follows:
-
-   - _Network Behaviour_: Status Software utilises a private, censorship resistant, peer-to-peer messaging protocol called Waku ([https://waku.org/](https://waku.org/)). To allow us to understand the performance, usage patterns, and reliability of the Waku protocol, we collect non-personally identifiable information such as the number of messages sent to you, connected and discovered peers, the rate of successfully sent messages, type of connection to peers, and details about your OS, Status Software application version and bandwidth usage. Such usage data is linked to a randomly generated peer ID associated with your instance of Status Software, which is a unique identifier used for the duration of your interaction with Status Software and generated with each restart of the Status Software. While helpful for improving the protocol, it raises concerns about possible metadata exposure, such as the peer ID being used to track patterns. Such usage data will be kept for only as long as necessary to fulfil the aforementioned purposes and in any event, no longer than thirty (30) days and it will be deleted thereafter.
-   - _Analytics_: Status also uses privacy-focused analytics to collect trends and insights about Status Software users. The usage data consists of personal data which we briefly process, that includes your IP address, universally unique identifiers of your device (UUID), and logs of actions, including button presses and screen visits, during your interactions with Status Software. Such usage data will be kept for only as long as necessary to fulfil the aforementioned purposes and it will be deleted thereafter.
-
-   We process any personal data collected in the context of usage data based on your consent when you choose to opt-in. If you no longer wish to provide us any further usage data, you can opt-out at any time by disabling these functions.
-
-2. **API Proxy Server**: When you use Status Software and specifically, the crypto wallet feature, Status Software will automatically interact with a server (“**API** **Proxy Server**”) that we control and has been implemented to improve the performance and security of Status Software and acts as a critical intermediary between a user’s instance of Status Software and a select number of third party service providers.
+1. **API Proxy Server**: When you use Status Software and specifically, the crypto wallet feature, Status Software will automatically interact with a server (“**API** **Proxy Server**”) that we control and has been implemented to improve the performance and security of Status Software and acts as a critical intermediary between a user’s instance of Status Software and a select number of third party service providers.
 
    The API Proxy Server is hosted on a number of reputable third party cloud providers (see section 4 of this Privacy Policy).
 
@@ -43,6 +36,8 @@ Status processes personal data on a limited basis from users of Status Software 
 
    - _the user’s IP address_: your IP address will be processed by Status when third party requests are run through the API Proxy Server. This however removes your individual device details and IP address when the API Proxy Server makes the external requests to the third party service provider. As a result, these third-party service providers will only see the IP address of the API proxy server, not your IP address. The API Proxy Server receives your IP address whenever your instance of Status Software makes a https API call in the context of interacting with the following third party service providers:
      - CoinGecko;
+     - Alchemy;
+     - Rarible;
      - Infura;
      - Grove; or
      - Nodefleet.
@@ -55,7 +50,7 @@ Status processes personal data on a limited basis from users of Status Software 
 
    We process the above personal data for the purposes of facilitating the technical operation of Status Software and optimising the functionality and user’s experience of Status Software. We have a legitimate interest in processing this personal data for these purposes.
 
-3. **Error Logs in Status Software**: To help troubleshoot issues, you can decide to enable logs, which will be stored locally on your device. When enabled, you are then able to subsequently share these logs with Status, which contains certain technical usage information, including details about your actions performed in Status Software. We note that such logs might also contain personal data. Status cannot collect these logs unless you share them with us. If you share these logs with Status, we process other personal data, such as a unique ID of the user's instance of Status Software, your IP address, and, depending how the logs are shared with Status, either your email address or Github username.
+2. **Error Logs in Status Software**: To help troubleshoot issues, you can decide to enable logs, which will be stored locally on your device. When enabled, you are then able to subsequently share these logs with Status, which contains certain technical usage information, including details about your actions performed in Status Software. We note that such logs might also contain personal data. Status cannot collect these logs unless you share them with us. If you share these logs with Status, we process other personal data, such as the user's chat public key, wallet address, and, depending if the logs are shared with Status over Github, your Github username.
 
    This technical information helps us diagnose and resolve any technical problems efficiently. Such information will be kept for only as long as necessary to fulfil the aforementioned purposes and in any event, no longer than thirty (30) days and it will be deleted thereafter
 
@@ -72,7 +67,6 @@ Third party service providers we engage and services we utilise from them includ
 - _Infura_: Providing RPC services;
 - _Grove_: Providing RPC services;
 - _Nodefleet_: Providing RPC services;
-- _MixPanel_: Providing analytics services in relation to the Usage Data.
 
 ### 5) Third party collection and processing of personal data
 
