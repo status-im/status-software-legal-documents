@@ -23,16 +23,15 @@ When you initiate the withdrawal of the assets or when you receive any allocated
 1) the wallet address provided is in your lawful control and that you have the full power and authority to use it;   
 2) the wallet address and any other information you provide is true, complete, and accurate;   
 3) any withdrawn assets or received accrued yield or liquid rewards will not be used to conduct or facilitate any illicit activities, including money laundering, sanctions evasion or any other unlawful activity;   
-4) you are not a sanctioned person or entity, and that you are not acting on behalf of or at the direction of any sanctioned person or entity as designated by the sanctions regimes of Switzerland, the European Union, or the United States (including OFAC); and  
+4) you are not a sanctioned person or entity, and that you are not acting on behalf of or at the direction of any sanctioned person or entity as designated by the sanctions regimes of Switzerland, the European Union, or the United States (OFAC); and  
 5) you understand that once you have withdrawn your assets or received your accrued yield or liquid rewards, such withdrawal or receipt may be irreversible. 
 
 ### 3.2 Your responsibilities
 
 You are solely responsible for the following:
 
-1) providing us a wallet address that is accurate and valid in connection with any withdrawal of your assets or in order to receive any accrued yield or liquid rewards; and  
-2) complying with any instructions and procedures communicated by us concerning the withdrawal of the assets or the receipt of any accrued yield or liquid rewards.  
-     
+1) providing a a wallet address that is accurate and valid in connection with the withdrawal of your assets or in order to receive any accrued yield or liquid rewards; and  
+2) complying with any instructions and procedures communicated by us concerning the withdrawal of the assets or the receipt of any accrued yield or liquid rewards.       
 ### 3.3 No further entitlement
 
 When you initiate a withdrawal of your assets or receive any allocated yield or liquid rewards, you acknowledge that you will not be entitled to receive any further amounts beyond what you have withdrawn or received.
